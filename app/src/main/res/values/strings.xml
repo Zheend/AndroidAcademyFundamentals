@@ -13,4 +13,8 @@
     <string name="second_actor_name">Chris Evans</string>
     <string name="third_actor_name">Mark Ruffalo</string>
     <string name="fourth_actor_name">Chris Hemsworth</string>
+
+    <string name="movie_list_text">Movie list</string>
+    <string name="item_movie_name">Avengers: End Game</string>
+    <string name="time_duration_text">137 min</string>
 </resources>
